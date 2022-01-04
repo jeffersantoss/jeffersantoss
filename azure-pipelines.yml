@@ -14,4 +14,7 @@ steps:
   inputs:
     rootFolderOrFile: '$(build.sourcesDirectory)'
     includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/site.zip'
+    replaceExistingArchive: true
 - task: PublishBuildArtifacts@1
