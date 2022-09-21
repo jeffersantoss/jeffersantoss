@@ -2,8 +2,8 @@
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersantoss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersantoss&layout=compact&langs_count=6&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffersantoss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersantoss&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersantoss&label=Profile%20views&color=0e75b6&style=flat" alt="jeffersantoss" /> </p>
@@ -31,7 +31,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jeffersantoss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeffersantoss" /></a><a href="https://ko-fi.com/jeffersantoss"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jeffersantoss" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersantoss&show_icons=true&locale=en&layout=compact" alt="jeffersantoss" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersantoss&show_icons=true&locale=en" alt="jeffersantoss" /></p>
