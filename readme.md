@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jefferson Santos</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersantoss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersantoss&layout=compact&langs_count=6&theme=algolia"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersantoss&label=Profile%20views&color=0e75b6&style=flat" alt="jeffersantoss" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jeffersantoss" target="blank"><img src="https://img.shields.io/twitter/follow/jeffersantoss?logo=twitter&style=for-the-badge" alt="jeffersantoss" /></a> </p>
