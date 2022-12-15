@@ -2,8 +2,8 @@
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffersantoss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersantoss&layout=compact&langs_count=6&theme=algolia"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=jeffersantoss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersantoss&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersantoss&label=Profile%20views&color=0e75b6&style=flat" alt="jeffersantoss" /> </p>
